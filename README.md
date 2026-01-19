@@ -1,16 +1,13 @@
-## Hi there 👋
+# Портфолио
 
-<!--
-**criex2281337/criex2281337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Простой сайт-портфолио, размещённый с помощью GitHub Pages.
 
-Here are some ideas to get you started:
+## О проекте
+Сайт создан в рамках учебного задания колледжа.  
+Содержит информацию обо мне и мои контакты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Используемые технологии
+- HTML5
+
+## Ссылка на сайт
+https://criex2281337.github.io
